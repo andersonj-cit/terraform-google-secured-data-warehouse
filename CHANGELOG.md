@@ -8,6 +8,14 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 This changelog is generated automatically based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
+## [0.3.0](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/compare/v0.2.0...v0.3.0) (2022-02-24)
+
+
+### Features
+
+* add audit log to the centralized-logging module ([#274](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/issues/274)) ([987aaf3](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/commit/987aaf34ae899edde82b7854530519ea9231e519))
+* Python standalone example ([#264](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/issues/264)) ([4fc7497](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/commit/4fc749794d71bb7756d8c2d71e40f677ae75a703))
+
 ## [0.2.0](https://github.com/GoogleCloudPlatform/terraform-google-secured-data-warehouse/compare/v0.1.0...v0.2.0) (2022-02-23)
 
 
